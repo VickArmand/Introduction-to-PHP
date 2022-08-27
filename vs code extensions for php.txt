@@ -1,0 +1,3 @@
+PHP formatter
+PHP Intelliphense
+Error lens
